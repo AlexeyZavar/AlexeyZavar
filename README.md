@@ -7,7 +7,8 @@ Hi 👋! I'm glad you visited my profile. Feel free to see my works at [@Radolyn
 <br><br><br>
 <img src="https://count.getloli.com/get/@AlexeyZavar?theme=rule34" alt="AlexeyZavar" />
 
-## Social
+---
 
 [![Twitter](https://img.shields.io/twitter/follow/alexeyzavar?color=blue&label=Follow%20me%20on%20Twitter%21&style=for-the-badge)](https://twitter.com/AlexeyZavar) [![Discord](https://img.shields.io/discord/484025467134017568?label=Join%20our%20Discord%20server%21&style=for-the-badge)](https://discord.gg/CGFFP2H)
 
+[![](https://img.shields.io/badge/OnePlus-6T-f5010c?style=flat-square&logo=oneplus&logoColor=ffffff)](https://www.oneplus.com/) [![](https://img.shields.io/badge/Windows-11-4e9eee?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11) [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
